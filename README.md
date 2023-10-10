@@ -1,11 +1,6 @@
 # React + Vite An Application by SamanKT
 
-The project is developed using React, Vite, MUI, Spring and Lottie animation libraries. The project is a fullstack project. you can download the docker compose image by running 
-
-```
-docker pull samankt/samankt-softscale
-
-```
+The project is developed using React, Vite, MUI, Spring and Lottie animation libraries. The project is a fullstack project.
 
 <img width="606" alt="image" src="https://github.com/SamanKT/user-management-fullstack-frontend/assets/49819814/7922cab7-6020-4661-9276-2e2b37979760">
 
