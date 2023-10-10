@@ -1,4 +1,4 @@
-# React + Vite An Application by SamanKT
+# React + Vite | An Application by SamanKT
 
 The project is developed using React, Vite, MUI, Spring and Lottie animation libraries. The project is a fullstack project.
 
